@@ -13,3 +13,4 @@ console.log(chalk.bgCyanBright("This text has a CyanBright background"));
 console.log(chalk.purple("This text is purple"));
 console.log(chalk.orange("This text is orange"));
 console.log(chalk.grey("This text is grey"));
+console.log(chalk.black("This text is black"));
