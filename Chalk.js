@@ -11,3 +11,4 @@ console.log(chalk.bold("This text is bold"));
 console.log(chalk.underline("This text is underline"));
 console.log(chalk.bgCyanBright("This text has a CyanBright background"));
 console.log(chalk.purple("This text is purple"));
+console.log(chalk.orange("This text is orange"));
